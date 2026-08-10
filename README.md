@@ -1,7 +1,7 @@
 # **Alissa Tsay**
 
 Computer Science & Visual Arts @ Union College  
-Graduating June 2026
+Graduated June 2026
 
 I build systems that combine strong engineering with visual and interactive design.  
 My work spans operating systems, full-stack applications, low-level architecture, and real-time visual systems.
