@@ -69,4 +69,5 @@ Blender, Figma, Adobe Creative Suit, Rhino8
 
 📫 Email: tsayalissa@gmail.com  
 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/alissatsay/)
+
 🎨 Design Portfolio: [Website](https://sites.google.com/union.edu/alissatsay/home)
