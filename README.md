@@ -60,13 +60,13 @@ Blender, Figma, Adobe Creative Suit, Rhino8
 
 ## **What I Value**
 
-* Code clarity over cleverness  
-* Understanding systems deeply  
-* Building projects that actually run  
-* Engineering discipline \+ visual reasoning
+* Understanding systems deeply
+* Solving ambitious technical problems
+* Designing around real people
+* Engineering discipline + visual reasoning
 
 ---
 
 📫 Email: tsayalissa@gmail.com  
 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/alissatsay/)
- * Design Portfolio: [Website](https://sites.google.com/union.edu/alissatsay/home)
+🎨 Design Portfolio: [Website](https://sites.google.com/union.edu/alissatsay/home)
